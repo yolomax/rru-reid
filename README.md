@@ -1,7 +1,9 @@
 # Spatial and Temporal Mutual Promotion for Video-based Person Re-identification
 
+### News
 
-The code of a Refining Recurrent Unit (RRU) has been uploaded.
+**2018.12.29** The complete code is already available in [person-reid-lib](https://github.com/yolomax/person-reid-lib).
+**2018.11.19** The code of a Refining Recurrent Unit (RRU) has been uploaded.
 
 We are integrating our code with [deep-reid](https://github.com/KaiyangZhou/deep-person-reid).
 The new code library will includes image-based re-id and video-based re-id. The optical flow and web page visualization are also supported. It will be released in [person-reid-lib](https://github.com/yolomax/person-reid-lib).
