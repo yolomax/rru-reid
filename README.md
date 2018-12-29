@@ -3,6 +3,7 @@
 ### News
 
 **2018.12.29** The complete code is already available in [person-reid-lib](https://github.com/yolomax/person-reid-lib).
+
 **2018.11.19** The code of a Refining Recurrent Unit (RRU) has been uploaded.
 
 We are integrating our code with [deep-reid](https://github.com/KaiyangZhou/deep-person-reid).
